@@ -4,7 +4,7 @@
 August 30th, 2022
 
 ### Project Title
-Bikeshare
+Bikeshare Company Python Project
 
 ### Description
 Providing user information about the data: interactive filtering.
