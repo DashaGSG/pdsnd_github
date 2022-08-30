@@ -7,7 +7,7 @@ August 30th, 2022
 Bikeshare
 
 ### Description
-Providing user information about the data
+Providing user information about the data: interactive filtering.
 
 ### Files used
 chicago.csv
