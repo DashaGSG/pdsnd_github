@@ -4,10 +4,10 @@
 August 30th, 2022
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Providing user information about the data
 
 ### Files used
 Include the files used
