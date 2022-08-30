@@ -183,7 +183,7 @@ def user_stats(df):
         earliest = df['Birth Year'].min()
         most_recent = df['Birth Year'].max()
         most_common = df['Birth Year'].mode()[0]
-        print('earliest year of birth: {}, most recent year of birth: {}, most common year of birth: {}'.format(earliest, most_recent, most_common))
+        print('Earliest year of birth: {}, most recent year of birth: {}, most common year of birth: {}'.format(earliest, most_recent, most_common))
     else:
         print('Birth Year: no data available')
     
